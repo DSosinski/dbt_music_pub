@@ -3,3 +3,6 @@ env.bat
 env
 build_dockerfile.bat
 Dockerfile
+/profiles
+/logs
+/dbt_music_pub/profiles

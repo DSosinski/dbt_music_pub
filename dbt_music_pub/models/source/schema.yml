@@ -1,0 +1,13 @@
+
+version: 2
+
+sources:
+  - name: music_pub_data_store
+    tables:
+    - name: incoming_catalog
+      columns:
+      - name: title
+        test:
+        - not null
+
+ 
