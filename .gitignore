@@ -1,0 +1,5 @@
+.vscode
+env.bat
+env
+build_dockerfile.bat
+Dockerfile
